@@ -25,3 +25,5 @@ To tackle this problem, we employ advanced machine learning techniques, leveragi
   - Evaluation Metrics: Assess the model's performance using appropriate regression metrics, including Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared (R2) score.
 
   - This project showcases how advanced machine learning techniques can be applied to solve real-world problems and deliver valuable insights in the real estate industry. Accurate house price predictions aid buyers, sellers, and investors in making informed decisions, leading to better outcomes for all stakeholders.
+
+![image](https://github.com/MihirDavada/Advance_House_Price_Prediction/assets/101976200/1a3922cd-10a2-4064-8619-7dfe0523bb6d)
